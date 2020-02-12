@@ -1,7 +1,7 @@
 {
   "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Assignment #12",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chrishelm82/Employee-Tracker#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "inquirer": "^7.0.4",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.2",
