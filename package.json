@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/chrishelm82/Employee-Tracker#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "console-table-printer": "^1.1.58",
     "express": "^4.17.1",
     "inquirer": "^7.0.4",
